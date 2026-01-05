@@ -1,6 +1,23 @@
 # Tailwind-traders-powerbi-capstone
 An executive Power BI dashboard analyzing sales, revenue, profit margins, and customer loyalty for Tailwind Traders across multiple regions.
 
+📸 Dashboard Preview
+
+### Executive Dashboard
+![Executive Dashboard Overview](Tailwind_Traders_Executive_Dashboard(2)1.png)
+
+![Executive Dashboard Overview](Tailwind_Traders_Executive_Dashboard(2)2.png)
+
+![Executive Dashboard Overview](Tailwind_Traders_Executive_Dashboard(2)3.png)
+
+![Executive Dashboard Overview](Tailwind_Traders_Executive_Dashboard(2)4.png)
+
+### Power BI Subscriptions
+![Power BI Subscriptions](Tailwind_Trade_Executive_Dashboard(2)_Power_BI_subscriptions.png)
+
+### Power BI Alerts
+![Power BI Alerts](Tailwind_Trade_Executive_Dashboard(2)_Power_BI_alerts.png)
+
 📌 Project Overview
 
 This project is an end-to-end Power BI executive dashboard built to analyze sales performance, profitability, customer behavior, and inventory metrics for Tailwind Traders. The dashboard is designed for decision-makers, combining interactive visuals with automated monitoring features.
